@@ -93,7 +93,7 @@ Printed in PET-G on a Creality KE with a 0.4 mm nozzle.
    | colours inverted                  | `TFT_INVERT = True`           |
 
 3. Create `src/secrets.py` from `src/secrets_example.py`: WiFi and the
-   `API_TOKEN` from the main ESP's `App/api_token.py`. It is not committed.
+   `API_TOKEN` from the main ESP's `src/api_token.py`. It is not committed.
 
 4. Copy the rest. `assets.py` (fonts and icons) is big as source, so it
    goes precompiled; the other files can go as `.py`:

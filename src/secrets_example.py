@@ -6,5 +6,5 @@ PASSWORD = "your-password"
 # NETWORKS = (("your-network", "your-password"),
 #             ("your-extender", "its-password"))
 
-# API_TOKEN from App/api_token.py of the main ESP
+# API_TOKEN from src/api_token.py of the main ESP
 API_TOKEN = "paste-token-here"
