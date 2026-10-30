@@ -1,0 +1,9 @@
+# WiFi and token - only on the board and on your computer
+src/secrets.py
+
+__pycache__/
+*.mpy
+preview.png
+.DS_Store
+
+case/_archive/
